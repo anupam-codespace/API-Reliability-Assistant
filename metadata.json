@@ -1,0 +1,8 @@
+{
+  "name": "Remix API Reliability Assistant",
+  "description": "AI-powered API QA, reliability and security test plan generator for developers and QA engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
