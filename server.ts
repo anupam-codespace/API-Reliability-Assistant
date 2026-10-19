@@ -7,6 +7,7 @@ import { ApiDefinition } from './src/types';
 
 dotenv.config();
 
+
 async function startServer() {
   const app = express();
   const PORT = 3000;
