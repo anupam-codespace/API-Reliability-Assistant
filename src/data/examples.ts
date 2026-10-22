@@ -8,6 +8,7 @@ export interface ExampleApi {
   definition: ApiDefinition;
 }
 
+
 export const EXAMPLE_APIS: ExampleApi[] = [
   {
     id: 'user-registration',
